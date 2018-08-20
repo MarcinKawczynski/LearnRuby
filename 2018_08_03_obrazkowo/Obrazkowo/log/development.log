@@ -166,3 +166,75 @@ Processing by HomeController#index as HTML
 Completed 200 OK in 25ms (Views: 23.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-08-03 09:07:36 +0200
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+  Rendered home/_header.html.erb (1.3ms)
+Completed 200 OK in 21ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2018-08-03 09:07:40 +0200
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.9ms)
+  Rendered home/_header.html.erb (1.0ms)
+Completed 200 OK in 44ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2018-08-03 09:07:40 +0200
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (1.2ms)
+  Rendered home/_header.html.erb (0.6ms)
+Completed 200 OK in 28ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-03 09:07:41 +0200
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+  Rendered home/_header.html.erb (0.7ms)
+Completed 200 OK in 29ms (Views: 26.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2018-08-03 09:07:42 +0200
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (1.6ms)
+  Rendered home/_header.html.erb (0.5ms)
+Completed 200 OK in 29ms (Views: 26.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-03 09:07:43 +0200
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+  Rendered home/_header.html.erb (0.6ms)
+Completed 200 OK in 30ms (Views: 27.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2018-08-03 09:07:43 +0200
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (0.9ms)
+  Rendered home/_header.html.erb (0.7ms)
+Completed 200 OK in 31ms (Views: 28.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-03 09:07:43 +0200
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+  Rendered home/_header.html.erb (0.5ms)
+Completed 200 OK in 26ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/about" for 127.0.0.1 at 2018-08-03 09:07:44 +0200
+Processing by HomeController#about as HTML
+  Rendering home/about.html.erb within layouts/application
+  Rendered home/about.html.erb within layouts/application (1.2ms)
+  Rendered home/_header.html.erb (0.6ms)
+Completed 200 OK in 31ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
